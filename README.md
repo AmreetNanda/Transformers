@@ -20,6 +20,7 @@ First we will see how to easily leverage hte pipelines API to quickly use those 
 -----------
 
 ## 📂 Repository Structure
+```bash
 transformer-project/
 │
 ├── Dataset/spam.csv
@@ -27,7 +28,7 @@ transformer-project/
 ├── Spam_Detection_using_Transformers.ipynb # Notebook applying transformers for spam classification
 ├── README.md # This file
 └── requirements.txt # Python dependencies
-
+```
 ## 📝 Notebooks
 
 ### 1. `Transformer_Concepts.ipynb`
